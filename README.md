@@ -16,4 +16,4 @@
 1. Установите Python 3 (если не установлен): [python.org](https://www.python.org/)
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_НИК/file-manager-lab4.git
+   git clone https://github.com/AlisaAkhtyamova/file-manager-lab4.git
